@@ -8,7 +8,7 @@ EasyParallel is a free cross-platform tool that utilizes a multi-thread parallel
  - [NEWHYBRIDS](https://github.com/eriqande/newhybrids)
  - Extendable to other compatible software that requires multiple iterations or simulations for data analysis
  
-## Pros
+## Features
  - A GUI is provided. 
  - Support batch execution using a multi-core parallel algorithm.
  - No installation required.
