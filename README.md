@@ -1,7 +1,7 @@
 
 ![EasyParallel](img.png)
 
-Please find the documentation at http://webhome.auburn.edu/~hzz0024/web.
+Please find the manual documentation and download pages at http://webhome.auburn.edu/~hzz0024/web.
 
 ## What is EasyParallel?
  Run any compatible software in batch using multi-processor.
