@@ -8,7 +8,7 @@ Please refer manual [Docomentation](http://webhome.auburn.edu/~hzz0024/web).
  
 ## Supported Softwares
  - [STRUCTURE](https://web.stanford.edu/group/pritchardlab/structure_software/release_versions/v2.3.4/html/structure.html) without front end
- - [HEWHYBRIDS](https://github.com/eriqande/newhybrids) --no-gui
+ - [NEWHYBRIDS](https://github.com/eriqande/newhybrids) --no-gui
  - Extendable 
  
 ## Pros
