@@ -1,7 +1,7 @@
 
 ![EasyParallel](img.png)
 
-Please refer manual [Docomentation](http://webhome.auburn.edu/~hzz0024/web).
+Please refer manual [Documentation](http://webhome.auburn.edu/~hzz0024/web).
 
 ## What is EasyParallel?
  Run any compatible software in batch using multi-processor.
