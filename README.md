@@ -1,11 +1,8 @@
 
 ![EasyParallel](img.png)
 
-Please find the manual documentation and download pages at http://webhome.auburn.edu/~hzz0024/web.
+EasyParallel is a free cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of STRUCTURE and NEWHYBRIDS analyses. Please find the manual documentation and download pages at http://webhome.auburn.edu/~hzz0024/web.
 
-## What is EasyParallel?
- Run any compatible software in batch using multi-processor.
- 
 ## Supported Softwares
  - [STRUCTURE](https://web.stanford.edu/group/pritchardlab/structure_software/release_versions/v2.3.4/html/structure.html) without front end
  - [NEWHYBRIDS](https://github.com/eriqande/newhybrids) --no-gui
