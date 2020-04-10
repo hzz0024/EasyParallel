@@ -24,5 +24,5 @@ EasyParallel is a free cross-platform tool that utilizes a multi-thread parallel
   ```compile.sh```
 ## Miscellaneous
 
- Please contact Ryan (hzz0024@auburn.edu) or open an issue if you have a special request.
+ Please contact Honggang (hzz0024@auburn.edu) or open an issue if you have a special request.
       
