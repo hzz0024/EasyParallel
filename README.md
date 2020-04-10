@@ -1,5 +1,5 @@
 
-![EasyParallel](img.png)
+![EasyParallel](img1.png)
 
 EasyParallel is a free cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of STRUCTURE and NEWHYBRIDS analyses. Please find the manual documentation and download pages at http://webhome.auburn.edu/~hzz0024/web.
 
