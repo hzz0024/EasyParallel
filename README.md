@@ -4,8 +4,8 @@
 EasyParallel is a free cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of STRUCTURE and NEWHYBRIDS analyses. 
 
 ## Download Current Release
-- MacOS [download](https://drive.google.com/file/d/1msCMSfDbxzUV9hdpsZ2CZ4fuxQ_abf7d/view?usp=sharing)
-- Windowns [download](https://drive.google.com/file/d/17PW2w0VgMfhFk9qppoosq0gyify52uCp/view?usp=sharing)
+- `MacOS` [download](https://drive.google.com/file/d/1msCMSfDbxzUV9hdpsZ2CZ4fuxQ_abf7d/view?usp=sharing)
+- `Windowns` [download](https://drive.google.com/file/d/17PW2w0VgMfhFk9qppoosq0gyify52uCp/view?usp=sharing)
 
 ## Supported Softwares
  - [STRUCTURE](https://web.stanford.edu/group/pritchardlab/structure_software/release_versions/v2.3.4/html/structure.html)
@@ -14,15 +14,15 @@ EasyParallel is a free cross-platform tool that utilizes a multi-thread parallel
 
 ## How to use
 
-How to open EasyParallel
+`How to open EasyParallel when you encounter a macOS Gatekeeper issue. This happens if you download and install apps from the internet or directly from a developer instead of App Store.`
 
 [![Open EasyParallel](https://img.youtube.com/vi/rk8NRIea_MQ/0.jpg)](https://www.youtube.com/watch?v=rk8NRIea_MQ "Open EasyParalle")
 
-For NEWHYBRIDS
+`For NEWHYBRIDS`
 
 [![EasyParallel OSX (NEWHYBRIDS)](https://img.youtube.com/vi/fvt6QTSmrU0/0.jpg)](https://www.youtube.com/watch?v=fvt6QTSmrU0 "EasyParallel OSX (NEWHYBRIDS)")
 
-For STRUCTURE
+`For STRUCTURE`
 
 [![EasyParallel OSX (STRUCTURE)](https://img.youtube.com/vi/bEMs-0ujVkw/0.jpg)](https://www.youtube.com/watch?v=bEMs-0ujVkw "EasyParallel OSX (STRUCTURE)")
  
