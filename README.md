@@ -5,7 +5,7 @@ EasyParallel is a free cross-platform tool that utilizes a multi-thread parallel
 
 ## Download Current Release
 - `MacOS` [download](https://drive.google.com/file/d/1msCMSfDbxzUV9hdpsZ2CZ4fuxQ_abf7d/view?usp=sharing)
-- `Windowns` [download](https://drive.google.com/file/d/17PW2w0VgMfhFk9qppoosq0gyify52uCp/view?usp=sharing)
+- `Windows` [download](https://drive.google.com/file/d/17PW2w0VgMfhFk9qppoosq0gyify52uCp/view?usp=sharing)
 
 ## Supported Softwares
  - [STRUCTURE](https://web.stanford.edu/group/pritchardlab/structure_software/release_versions/v2.3.4/html/structure.html)
