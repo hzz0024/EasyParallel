@@ -4,14 +4,24 @@
 EasyParallel is a free cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of STRUCTURE and NEWHYBRIDS analyses. 
 You can download the runnables [here](https://drive.google.com/drive/folders/1nIcTf1b4t6oeAWy78Z0vxo7sONb2F_1z?usp=sharing).
 
-## 
-- MacOS [download](https://drive.google.com/file/d/1msCMSfDbxzUV9hdpsZ2CZ4fuxQ_abf7d/view?usp=sharing)
-- Windowns [download](https://drive.google.com/file/d/17PW2w0VgMfhFk9qppoosq0gyify52uCp/view?usp=sharing)
-
 ## Supported Softwares
  - [STRUCTURE](https://web.stanford.edu/group/pritchardlab/structure_software/release_versions/v2.3.4/html/structure.html)
  - [NEWHYBRIDS](https://github.com/eriqande/newhybrids)
  - Extendable to other compatible software that requires multiple iterations or simulations for data analysis
+
+## How to use
+
+How to open EasyParallel
+
+[![Open EasyParallel](https://img.youtube.com/vi/rk8NRIea_MQ/0.jpg)](https://www.youtube.com/watch?v=rk8NRIea_MQ "Open EasyParalle")
+
+For NEWHYBRIDS
+
+[![EasyParallel OSX (NEWHYBRIDS)](https://img.youtube.com/vi/fvt6QTSmrU0/0.jpg)](https://www.youtube.com/watch?v=fvt6QTSmrU0 "EasyParallel OSX (NEWHYBRIDS)")
+
+For STRUCTURE
+
+[![EasyParallel OSX (STRUCTURE)](https://img.youtube.com/vi/bEMs-0ujVkw/0.jpg)](https://www.youtube.com/watch?v=bEMs-0ujVkw "EasyParallel OSX (STRUCTURE)")
  
 ## Features
  - A GUI is provided. 
