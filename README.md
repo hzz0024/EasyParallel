@@ -4,8 +4,8 @@
 EasyParallel is a free cross-platform tool that utilizes a multi-thread parallel algorithm for processing multiple iterations of STRUCTURE and NEWHYBRIDS analyses. If you find this tool useful, please cite `Zhao H., Beck B., Fuller A., & Peatman E. (2020). EasyParallel: A GUI platform for parallelization of STRUCTURE and NEWHYBRIDS analyses. PLoS ONE, 15(4), e0232110.`[https://doi.org/10.1371/journal.pone.0232110](https://doi.org/10.1371/journal.pone.0232110)
 
 ## Download Current Release
-- `MacOS` [download](https://drive.google.com/file/d/1msCMSfDbxzUV9hdpsZ2CZ4fuxQ_abf7d/view?usp=sharing)
-- `Windows` [download](https://drive.google.com/file/d/17PW2w0VgMfhFk9qppoosq0gyify52uCp/view?usp=sharing)
+- `MacOS` [download](https://drive.google.com/file/d/17PW2w0VgMfhFk9qppoosq0gyify52uCp/view?usp=sharing)
+- `Windows` [download](https://drive.google.com/file/d/1msCMSfDbxzUV9hdpsZ2CZ4fuxQ_abf7d/view?usp=sharing)
 
 ## Supported Softwares
  - [STRUCTURE](https://web.stanford.edu/group/pritchardlab/structure_software/release_versions/v2.3.4/html/structure.html)
